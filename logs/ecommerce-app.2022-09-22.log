@@ -1,0 +1,15 @@
+2022-12-21 22:28:04,260 INFO com.example.demo.SareetaApplicationTests [main] Starting SareetaApplicationTests on Admin with PID 5128 (started by Admin in C:\Users\Admin\Downloads\khoadd6-jwt-project4-main\TuongVV_Jwt_project4)
+2022-12-21 22:28:04,263 DEBUG com.example.demo.SareetaApplicationTests [main] Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2022-12-21 22:28:04,266 INFO com.example.demo.SareetaApplicationTests [main] No active profile set, falling back to default profiles: default
+2022-12-21 22:28:08,222 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2022-12-21 22:28:08,551 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-12-21 22:28:08,695 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2022-12-21 22:28:08,838 INFO org.hibernate.Version [main] HHH000412: Hibernate Core {5.3.10.Final}
+2022-12-21 22:28:08,840 INFO org.hibernate.cfg.Environment [main] HHH000206: hibernate.properties not found
+2022-12-21 22:28:09,087 INFO org.hibernate.annotations.common.Version [main] HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2022-12-21 22:28:09,315 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2022-12-21 22:28:13,001 INFO com.example.demo.SareetaApplicationTests [main] Started SareetaApplicationTests in 9.837 seconds (JVM running for 11.795)
+2022-12-21 22:28:13,216 INFO com.zaxxer.hikari.HikariDataSource [Thread-2] HikariPool-1 - Shutdown initiated...
+2022-12-21 22:28:13,220 INFO com.zaxxer.hikari.HikariDataSource [Thread-2] HikariPool-1 - Shutdown completed.
